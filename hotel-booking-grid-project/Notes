@@ -29,3 +29,5 @@ ITEM PROPERTIES - To arrange the items
 5. flex-basic: auto | <length>
 
 - property 3, 4 and 5 can be combined as flex: 0 1 auto.
+
+\*\* svg fonts are much better than icon fonts because they can be treated as text and also easy for screen assistance devices. https://icomoon.io/app/#/select website can be used to download svg

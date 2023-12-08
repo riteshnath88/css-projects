@@ -7,7 +7,7 @@
     "watch:sass": "node-sass sass/main.scss css/style.css -w",
     "start": "npm-run-all --parallel watch:sass"
   },
-  "author": "Jonas",
+  "author": "Ritesh",
   "license": "ISC",
   "dependencies": {
     "node-sass": "^9.0.0",
